@@ -23,6 +23,7 @@
   "author": "Jens Lübberstedt <jens@amz.tools>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.5.1",
     "crypto-js": "^4.1.1",
     "csvtojson": "^2.0.10",
     "fast-xml-parser": "^4.2.6",
@@ -34,7 +35,8 @@
     "chai": "^4.3.7",
     "dotenv": "^16.3.1",
     "mocha": "^10.2.0",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "typescript": "^5.2.2"
   },
   "repository": {
     "type": "git",

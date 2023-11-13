@@ -1,5 +1,6 @@
 # amazon-sp-api (client for the Amazon Selling Partner API)
 
+This is a fork.
 The client handles calls to the Amazon Selling Partner API. It wraps up all the necessary stuff such as requesting access token, security token and signing requests with AWS4 signature.
 
 ## Contents
